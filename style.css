@@ -81,7 +81,7 @@ ol li:hover a{
     height: 100%;
     width: 100%;
     position: absolute;
-    background: url(img/banner.jpg);
+    background: url(banner.jpg);
     background-size: cover;
     background-position: center;
     filter: brightness(40%);
@@ -447,7 +447,7 @@ span{
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url(img/bgimg.jpg);
+    background: url(bgimg.jpg);
     background-size: cover;
     background-position: center;
     filter: brightness(20%);
@@ -502,7 +502,7 @@ span{
     width: 25px;
     margin: auto 0;
     cursor: pointer;
-    background: url(img/menubar.jpg);
+    background: url(menubar.jpg);
     background-size: 25px;
     background-position: center;
     filter: invert(1);
@@ -510,7 +510,7 @@ span{
 
 }
 .navbar .toggle.active{
-    background: url(img/close.png);
+    background: url(close.png);
     background-size: 40px;
     background-position: center;
     cursor: pointer;
